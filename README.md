@@ -1,4 +1,5 @@
-# Pelatihan Git 
-1. Pada Section basic Version and Branch Management (Git), kita mempelajari bagaimana cara menginstal git dan membuat akun github
-2. Kita juga mempelajari bagaimana cara membuat repository, push, pull, commit, clone
-3. Setelah itu kita juga mempelajari cara branch, merge dan pull request
+# Pelatihan Git
+## Ringkasan Materi
+1. Versioning adalah mengatur versi dari source code program
+2. Git merupakan salah satu version control system populer yang digunakan para developer untuk mengembangkan software secara bersama-sama
+3. Commit dalam git merupakan catatan setiap perubahan
