@@ -34,8 +34,11 @@
     },
     {
       "id": 5,
+      "category": "Makanan",
       "name": "Nasi Usus Crispy",
-      "price": "Rp.12000"
+      "price": 12000,
+      "description": "Nasi seporsi dengan usus crispy yang digoreng",
+      "image": "nasi-usus-crispy.jpeg"
     },
     {
       "id": 6,
