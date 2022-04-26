@@ -1,0 +1,60 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Nasi Ayam Crispy Hot Spicy",
+      "price": "Rp.15000"
+    },
+    {
+      "id": 2,
+      "name": "Ceker Pedas",
+      "price": "Rp.10000"
+    },
+    {
+      "id": 3,
+      "name": "Nasi Jamur Crispy",
+      "price": "Rp.12000"
+    },
+    {
+      "id": 4,
+      "name": "Nasi Ayam Geprek",
+      "price": "Rp.12000"
+    },
+    {
+      "id": 5,
+      "name": "Nasi Usus Crispy",
+      "price": "Rp.12000"
+    },
+    {
+      "id": 6,
+      "name": "Jamur Crispy",
+      "price": "Rp.8000"
+    },
+    {
+      "id": 7,
+      "name": "Nasi Lele Goreng",
+      "price": "Rp.15000"
+    },
+    {
+      "id": 8,
+      "name": "Kol Goreng",
+      "price": "Rp.5000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "nuruslaily",
+    "email": "nuruslaily88@gmail.com",
+    "password": "Nurus123",
+    "phone": "08816254736",
+    "birth": "08/04/2000",
+    "address": "Jl. Ikan Tombro Timur"
+  }
+}
