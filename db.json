@@ -6,7 +6,7 @@
       "name": "Nasi Ayam Crispy Hot Spicy",
       "price": 15000,
       "description": "Nasi dengan ayam crispy hot spicy",
-      "image": "nasi-ayam-hot-spicy.jpeg"
+      "image": "https://github.com/nuruslaily/pelatihan/blob/main/img/nasi-ayam-hot-spicy.jpeg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "name": "Ceker Pedas",
       "price": 10000,
       "description": "Ceker dengan kuah yang pedas",
-      "image": "ceker-pedas.jpeg"
+      "image": "https://github.com/nuruslaily/pelatihan/blob/main/img/ceker-pedas.jpeg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "name": "Nasi Jamur Crispy",
       "price": 12000,
       "description": "Nasi seporsi dengan jamur crispy",
-      "image": "nasi-jamur-crispy.jpeg"
+      "image": "https://github.com/nuruslaily/pelatihan/blob/main/img/nasi-jamur-crispy.jpeg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "name": "Nasi Ayam Geprek",
       "price": 12000,
       "description": "Nasi seporsi dengan ayam geprek",
-      "image": "nasi-ayam-geprek.jpeg"
+      "image": "https://github.com/nuruslaily/pelatihan/blob/main/img/nasi-ayam-geprek.jpeg"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "name": "Nasi Usus Crispy",
       "price": 12000,
       "description": "Nasi seporsi dengan usus crispy yang digoreng",
-      "image": "nasi-usus-crispy.jpeg"
+      "image": "https://github.com/nuruslaily/pelatihan/blob/main/img/nasi-usus-crispy.jpeg"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "name": "Jamur Crispy",
       "price": 8000,
       "description": "Jamur yang digoreng dengan crispy",
-      "image": "jamur-crispy.jpeg"
+      "image": "https://github.com/nuruslaily/pelatihan/blob/main/img/jamur-crispy.jpeg"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "name": "Nasi Lele Goreng",
       "price": 15000,
       "description": "Nasi seporsi dengan lele yang digoreng",
-      "image": "nasi-lele-goreng.jpeg"
+      "image": "https://github.com/nuruslaily/pelatihan/blob/main/img/nasi-lele-goreng.jpeg"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "name": "Kol Goreng",
       "price": 5000,
       "description": "Kol segar yang digoreng",
-      "image": "kol-goreng.jpeg"
+      "image": "https://github.com/nuruslaily/pelatihan/blob/main/img/kol-goreng.jpeg"
     }
   ],
   "comments": [
