@@ -6,7 +6,7 @@
       "name": "Nasi Ayam Crispy Hot Spicy",
       "price": 15000,
       "description": "Nasi dengan ayam crispy hot spicy",
-      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/10/21/2199439461.jpeg"
+      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/nasi-ayam-hot-spicy.jpeg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "name": "Ceker Pedas",
       "price": 10000,
       "description": "Ceker dengan kuah yang pedas",
-      "image": "https://cdn-brilio-net.akamaized.net/news/2021/09/16/213563/1562364-1000xauto-resep-ceker-pedas-manis.jpg"
+      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/ceker-pedas.jpeg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "name": "Nasi Jamur Crispy",
       "price": 12000,
       "description": "Nasi seporsi dengan jamur crispy",
-      "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8afd01a4-ff89-49ab-850a-060df8cb4283_Go-Biz_20200812_221955.jpeg"
+      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/nasi-jamur-crispy.jpeg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "name": "Nasi Ayam Geprek",
       "price": 12000,
       "description": "Nasi seporsi dengan ayam geprek",
-      "image": "https://st3.depositphotos.com/34780080/37029/i/1600/depositphotos_370296794-stock-photo-ayam-geprek-is-indonesian-deep.jpg"
+      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/nasi-ayam-geprek.jpeg"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "name": "Nasi Usus Crispy",
       "price": 12000,
       "description": "Nasi seporsi dengan usus crispy yang digoreng",
-      "image": "https://fdid.imgix.net/prod/nasi-usus-crispy-4UkrhYtIqq.jpg"
+      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/nasi-usus-crispy.jpeg"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "name": "Jamur Crispy",
       "price": 8000,
       "description": "Jamur yang digoreng dengan crispy",
-      "image": "https://i0.wp.com/img-global.cpcdn.com/recipes/030ed7426056e663/860x610cq70/photo.jpg"
+      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/jamur-crispy.jpeg"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "name": "Nasi Lele Goreng",
       "price": 15000,
       "description": "Nasi seporsi dengan lele yang digoreng",
-      "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/12/3/d9f2950e-7c40-483c-a1ae-6818c7f669db.jpg"
+      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/nasi-lele-goreng.jpeg"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "name": "Kol Goreng",
       "price": 5000,
       "description": "Kol segar yang digoreng",
-      "image": "https://asset.kompas.com/crops/CzvVlTvrr1qMq3dFG3aYUt3l2IY=/0x56:1000x723/750x500/data/photo/2021/11/04/61832cccc41dd.jpg"
+      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/kol-goreng.jpeg"
     }
   ],
   "comments": [
