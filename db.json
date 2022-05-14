@@ -6,7 +6,7 @@
       "name": "Nasi Ayam Crispy Hot Spicy",
       "price": 15000,
       "description": "Nasi dengan ayam crispy hot spicy",
-      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/10/21/2199439461.jpeg"
+      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/nasi-ayam-crispy-hot-spicy.jpeg"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "name": "Nasi Jamur Crispy",
       "price": 12000,
       "description": "Nasi seporsi dengan jamur crispy",
-      "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8afd01a4-ff89-49ab-850a-060df8cb4283_Go-Biz_20200812_221955.jpeg"
+      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/nasi-jamur-crispyy.jpeg"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "name": "Nasi Usus Crispy",
       "price": 12000,
       "description": "Nasi seporsi dengan usus crispy yang digoreng",
-      "image": "https://fdid.imgix.net/prod/nasi-usus-crispy-4UkrhYtIqq.jpg"
+      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/nasi-usus-crispyy.jpg"
     },
     {
       "id": 6,
@@ -50,11 +50,11 @@
     },
     {
       "id": 7,
-      "category": "c2",
+      "category": "Makanan",
       "name": "Nasi Lele Goreng",
       "price": 15000,
       "description": "Nasi seporsi dengan lele yang digoreng",
-      "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/12/3/d9f2950e-7c40-483c-a1ae-6818c7f669db.jpg"
+      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/nasi-lele-gorengg.jpg"
     },
     {
       "id": 8,
