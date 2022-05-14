@@ -42,11 +42,11 @@
     },
     {
       "id": 6,
-      "category": "c1",
+      "category": "Snack",
       "name": "Jamur Crispy",
       "price": 8000,
       "description": "Jamur yang digoreng dengan crispy",
-      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/jamur-crispy.jpeg"
+      "image": "https://i0.wp.com/img-global.cpcdn.com/recipes/030ed7426056e663/860x610cq70/photo.jpg"
     },
     {
       "id": 7,
