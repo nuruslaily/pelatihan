@@ -2,11 +2,11 @@
   "menu": [
     {
       "id": 1,
-      "category": "c2",
+      "category": "Makanan",
       "name": "Nasi Ayam Crispy Hot Spicy",
       "price": 15000,
       "description": "Nasi dengan ayam crispy hot spicy",
-      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/nasi-ayam-hot-spicy.jpeg"
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/10/21/2199439461.jpeg"
     },
     {
       "id": 2,
