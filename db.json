@@ -72,13 +72,24 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "id": 1,
-    "username": "nuruslaily",
-    "email": "nuruslaily88@gmail.com",
-    "password": "Nurus123",
-    "phone": "08816254736",
-    "birth": "08/04/2000",
-    "address": "Jl. Ikan Tombro Timur"
-  }
+  "profile": [
+    {
+      "id": 1,
+      "username": "nuruslaily",
+      "email": "nuruslaily88@gmail.com",
+      "password": "Nurus123",
+      "phone": "08811234567",
+      "birth": "08/04/2000",
+      "address": "Jl. Ikan Tombro Timur"
+    },
+    {
+      "id": 2,
+      "username": "fahmi",
+      "email": "fahmifirmansyah@gmail.com",
+      "password": "Fahmi123",
+      "phone": "088162545367",
+      "birth": "06/04/2000",
+      "address": "Jl. Ikan Tombro Barat"
+    }
+  ]
 }
