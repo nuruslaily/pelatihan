@@ -18,11 +18,11 @@
     },
     {
       "id": 3,
-      "category": "c2",
+      "category": "Makanan",
       "name": "Nasi Jamur Crispy",
       "price": 12000,
       "description": "Nasi seporsi dengan jamur crispy",
-      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/nasi-jamur-crispy.jpeg"
+      "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8afd01a4-ff89-49ab-850a-060df8cb4283_Go-Biz_20200812_221955.jpeg"
     },
     {
       "id": 4,
@@ -34,11 +34,11 @@
     },
     {
       "id": 5,
-      "category": "c2",
+      "category": "Makanan",
       "name": "Nasi Usus Crispy",
       "price": 12000,
       "description": "Nasi seporsi dengan usus crispy yang digoreng",
-      "image": "https://raw.githubusercontent.com/nuruslaily/pelatihan/main/img/nasi-usus-crispy.jpeg"
+      "image": "https://fdid.imgix.net/prod/nasi-usus-crispy-4UkrhYtIqq.jpg"
     },
     {
       "id": 6,
