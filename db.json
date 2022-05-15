@@ -2,7 +2,7 @@
   "menu": [
     {
       "id": 1,
-      "category": "Makanan",
+      "category": "Makanan Berat",
       "name": "Nasi Ayam Crispy Hot Spicy",
       "price": 15000,
       "description": "Nasi dengan ayam crispy hot spicy",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "category": "c1",
+      "category": "Snack",
       "name": "Ceker Pedas",
       "price": 10000,
       "description": "Ceker dengan kuah yang pedas",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "category": "Makanan",
+      "category": "Makanan Berat",
       "name": "Nasi Jamur Crispy",
       "price": 12000,
       "description": "Nasi seporsi dengan jamur crispy",
@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "category": "c2",
+      "category": "Snack",
       "name": "Nasi Ayam Geprek",
       "price": 12000,
       "description": "Nasi seporsi dengan ayam geprek",
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "category": "Makanan",
+      "category": "Makanan Berat",
       "name": "Nasi Usus Crispy",
       "price": 12000,
       "description": "Nasi seporsi dengan usus crispy yang digoreng",
@@ -50,7 +50,7 @@
     },
     {
       "id": 7,
-      "category": "Makanan",
+      "category": "Makanan Berat",
       "name": "Nasi Lele Goreng",
       "price": 15000,
       "description": "Nasi seporsi dengan lele yang digoreng",
@@ -58,7 +58,7 @@
     },
     {
       "id": 8,
-      "category": "c1",
+      "category": "Snack",
       "name": "Kol Goreng",
       "price": 5000,
       "description": "Kol segar yang digoreng",
