@@ -90,6 +90,15 @@
       "phone": "088162545367",
       "birth": "06/04/2000",
       "address": "Jl. Ikan Tombro Barat"
+    },
+    {
+      "username": "fiirman",
+      "email": "firman@gmail.com",
+      "password": "Firman123",
+      "phone": "08980346258",
+      "birth": "",
+      "address": "Jl Ikan",
+      "id": 3
     }
   ]
 }
